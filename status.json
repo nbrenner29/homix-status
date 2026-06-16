@@ -1,9 +1,9 @@
 {
-  "state": "incident",
-  "title": "Aktueller Ausfall",
-  "message": "HomixMedia und zugeh\u00F6rige Dienste sind aktuell gest\u00F6rt. Wir pr\u00FCfen die Ursache.",
-  "starts_at": "2026-06-16T22:16:00.1472561+02:00",
-  "ends_at": null,
-  "updated_at": "2026-06-16T20:16:00.1913236+00:00",
+  "state": "maintenance",
+  "title": "Wartung aktiv",
+  "message": "HomixMedia wird gerade aktualisiert. Die Dienste sollten in K\u00FCrze wieder erreichbar sein.",
+  "starts_at": "2026-06-16T22:16:18.1375562+02:00",
+  "ends_at": "2026-06-16T23:16:18.1375562+02:00",
+  "updated_at": "2026-06-16T20:16:18.1730166+00:00",
   "is_active": true
 }

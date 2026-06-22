@@ -1,9 +1,9 @@
 {
-  "state": "normal",
-  "title": "",
-  "message": "",
-  "starts_at": null,
-  "ends_at": null,
-  "updated_at": "2026-06-19T16:33:26.0689379+00:00",
-  "is_active": false
+  "state": "maintenance",
+  "title": "Wartung aktiv",
+  "message": "HomixMedia wird gerade aktualisiert. Die Dienste sollten in K\u00FCrze wieder erreichbar sein.",
+  "starts_at": "2026-06-22T20:31:49.5095698+02:00",
+  "ends_at": "2026-06-22T21:31:49.5095698+02:00",
+  "updated_at": "2026-06-22T18:31:49.5768255+00:00",
+  "is_active": true
 }

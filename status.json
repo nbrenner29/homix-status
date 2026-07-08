@@ -1,9 +1,9 @@
 {
-  "state": "normal",
-  "title": "",
-  "message": "",
-  "starts_at": null,
+  "state": "incident",
+  "title": "Aktueller Ausfall",
+  "message": "HomixMedia und zugeh\u00F6rige Dienste sind aktuell gest\u00F6rt. Wir pr\u00FCfen die Ursache.",
+  "starts_at": "2026-07-08T17:29:39.0098192+02:00",
   "ends_at": null,
-  "updated_at": "2026-07-08T11:09:40.7228376+00:00",
-  "is_active": false
+  "updated_at": "2026-07-08T15:29:39.0506734+00:00",
+  "is_active": true
 }

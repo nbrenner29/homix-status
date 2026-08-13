@@ -1,9 +1,9 @@
 {
-  "state": "maintenance",
-  "title": "Update des Dateispeichers",
-  "message": "Liebe Nutzer,\nein Update von 30min l\u00E4uft aktuell. Solange ist ein erneutes einloggen nicht m\u00F6glich sowie das aufzurufen von Jellyfin.",
-  "starts_at": "2026-08-13T21:23:00+02:00",
-  "ends_at": "2026-08-13T21:53:00+02:00",
-  "updated_at": "2026-08-13T19:10:07.8432519+00:00",
-  "is_active": true
+  "state": "normal",
+  "title": "",
+  "message": "",
+  "starts_at": null,
+  "ends_at": null,
+  "updated_at": "2026-08-13T19:39:40.4829867+00:00",
+  "is_active": false
 }

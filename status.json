@@ -1,9 +1,9 @@
 {
-  "state": "normal",
-  "title": "",
-  "message": "",
-  "starts_at": null,
-  "ends_at": null,
-  "updated_at": "2026-08-09T16:23:28.0179969+00:00",
-  "is_active": false
+  "state": "maintenance",
+  "title": "Update des Dateispeichers",
+  "message": "voraussichtliches ende in 30min",
+  "starts_at": "2026-08-13T20:47:00+02:00",
+  "ends_at": "2026-08-13T21:17:00+02:00",
+  "updated_at": "2026-08-13T18:47:14.2403919+00:00",
+  "is_active": true
 }

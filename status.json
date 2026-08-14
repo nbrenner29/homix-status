@@ -1,9 +1,9 @@
 {
-  "state": "maintenance",
-  "title": "Upgrade des Servers",
-  "message": "Liebe Nutzer,\nf\u00FCr ein planm\u00E4\u00DFiges Upgrade unserer Hardware sind alle Dienste f\u00FCr die n\u00E4chsten 30-60min nicht erreichbar.\nLiebe Gr\u00FC\u00DFe \nNiklas",
-  "starts_at": "2026-08-14T14:00:00+02:00",
-  "ends_at": "2026-08-14T15:00:00+02:00",
-  "updated_at": "2026-08-14T12:26:38.0903472+00:00",
-  "is_active": true
+  "state": "normal",
+  "title": "",
+  "message": "",
+  "starts_at": null,
+  "ends_at": null,
+  "updated_at": "2026-08-14T13:01:34.3982666+00:00",
+  "is_active": false
 }

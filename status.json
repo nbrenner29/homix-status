@@ -1,9 +1,9 @@
 {
-  "state": "normal",
-  "title": "",
-  "message": "",
-  "starts_at": null,
-  "ends_at": null,
-  "updated_at": "2026-08-17T15:53:26.6100213+00:00",
-  "is_active": false
+  "state": "info",
+  "title": "Testpush",
+  "message": "Dies ist eine Test-Pushnachricht des neuen App-Releases.",
+  "starts_at": "2026-08-22T00:33:59.0379818+02:00",
+  "ends_at": "2026-08-22T00:48:59.0379818+02:00",
+  "updated_at": "2026-08-21T22:20:12.6636844+00:00",
+  "is_active": true
 }

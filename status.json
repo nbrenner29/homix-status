@@ -1,9 +1,9 @@
 {
-  "state": "incident",
-  "title": "Testpush",
-  "message": "Dies ist eine Test-Pushnachricht des neuen App-Releases.",
-  "starts_at": "2026-08-22T00:33:59.0379818+02:00",
+  "state": "normal",
+  "title": "",
+  "message": "",
+  "starts_at": null,
   "ends_at": null,
-  "updated_at": "2026-08-21T22:20:38.0781275+00:00",
-  "is_active": true
+  "updated_at": "2026-08-21T22:20:51.175975+00:00",
+  "is_active": false
 }

@@ -1,9 +1,9 @@
 {
-  "state": "normal",
-  "title": "",
-  "message": "",
-  "starts_at": null,
-  "ends_at": null,
-  "updated_at": "2026-08-21T22:20:51.175975+00:00",
-  "is_active": false
+  "state": "maintenance",
+  "title": "Wartungsarbeiten am Router",
+  "message": "Aufgrund von Wartungsarbeiten ist das gesamte HomixMedia-Netz am fr\u00FChen Nachmittag teilweise nicht erreichbar",
+  "starts_at": "2026-09-04T12:00:00+02:00",
+  "ends_at": "2026-09-04T14:00:00+02:00",
+  "updated_at": "2026-09-04T10:04:24.9979725+00:00",
+  "is_active": true
 }

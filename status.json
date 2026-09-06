@@ -1,9 +1,9 @@
 {
-  "state": "normal",
-  "title": "",
-  "message": "",
-  "starts_at": null,
+  "state": "incident",
+  "title": "Ausfall aufgrund einer Stromabschaltung",
+  "message": "Liebe Nutzer,\nmein Stromanbieter schaltet mir morgen (Montag, 7.9) den Strom von 7Uhr - 12Uhr ab. Ich werde die Dienste bereits vorher vorsichtshalber herunterfahren. Ab Mittags sollte dann alles wieder wie gewohnt zur Verf\u00FCgung stehen.\n\nLiebe Gr\u00FC\u00DFe \nNiklas",
+  "starts_at": "2026-09-07T06:00:00+02:00",
   "ends_at": null,
-  "updated_at": "2026-09-04T15:01:07.0408563+00:00",
-  "is_active": false
+  "updated_at": "2026-09-06T08:22:53.0233802+00:00",
+  "is_active": true
 }

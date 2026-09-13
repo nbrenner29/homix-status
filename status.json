@@ -2,8 +2,9 @@
   "state": "maintenance",
   "title": "Ausfall wegen geplanter Stromabschaltung",
   "message": "Liebe Nutzer,\nauch diesen Montag (14.9) ist wieder eine geplante Stromabschaltung meines Anbieters. Somit ist das gesamte Homix-Media Netzwerk bis Montag Mittag (ca. 12:30Uhr) nicht erreichbar.",
-  "starts_at": "2026-09-14T10:00:00+02:00",
-  "ends_at": "2026-09-14T12:00:00+02:00",
-  "updated_at": "2026-09-13T20:26:42.6061402+00:00",
+  "starts_at": "2026-09-14T00:00:00+02:00",
+  "ends_at": "2026-09-14T12:30:00+02:00",
+  "send_notification": true,
+  "updated_at": "2026-09-13T20:56:04.0709157+00:00",
   "is_active": true
 }

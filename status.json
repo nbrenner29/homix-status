@@ -1,10 +1,10 @@
 {
-  "state": "incident",
-  "title": "Jellyfin teilweise nicht erreichbar",
-  "message": "Aktuell ist das Starten von Filmen nicht m\u00F6glich. Wir sind bereits dran das Problem zu l\u00F6sen!",
-  "starts_at": "2026-09-15T18:02:27.7464055+02:00",
+  "state": "normal",
+  "title": "",
+  "message": "",
+  "starts_at": null,
   "ends_at": null,
-  "send_notification": true,
-  "updated_at": "2026-09-15T15:49:45.6204288+00:00",
-  "is_active": true
+  "send_notification": false,
+  "updated_at": "2026-09-15T16:04:01.6818339+00:00",
+  "is_active": false
 }

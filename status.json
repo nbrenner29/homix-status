@@ -1,10 +1,10 @@
 {
-  "state": "maintenance",
-  "title": "Ausfall wegen geplanter Stromabschaltung",
-  "message": "Liebe Nutzer,\nauch diesen Montag (14.9) ist wieder eine geplante Stromabschaltung meines Anbieters. Somit ist das gesamte Homix-Media Netzwerk bis Montag Mittag (ca. 12:30Uhr) nicht erreichbar.",
-  "starts_at": "2026-09-14T00:00:00+02:00",
-  "ends_at": "2026-09-14T12:30:00+02:00",
+  "state": "incident",
+  "title": "Jellyfin teilweise nicht erreichbar",
+  "message": "Aktuell ist das Starten von Filmen nicht m\u00F6glich. Wir sind bereits dran das Problem zu l\u00F6sen!",
+  "starts_at": "2026-09-15T18:02:27.7464055+02:00",
+  "ends_at": null,
   "send_notification": true,
-  "updated_at": "2026-09-13T20:56:04.0709157+00:00",
+  "updated_at": "2026-09-15T15:49:45.6204288+00:00",
   "is_active": true
 }

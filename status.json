@@ -1,10 +1,10 @@
 {
-  "state": "normal",
-  "title": "",
-  "message": "",
-  "starts_at": null,
+  "state": "maintenance",
+  "title": "Jellyfin Update",
+  "message": "Wir aktualisieren momentan Jellyfin auf das n\u00E4chste gro\u00DFe Release. Es wird noch einen Moment dauern. Wir bitten um Geduld!",
+  "starts_at": "2026-09-16T22:15:00+02:00",
   "ends_at": null,
   "send_notification": false,
-  "updated_at": "2026-09-15T16:04:01.6818339+00:00",
-  "is_active": false
+  "updated_at": "2026-09-16T20:14:13.3509088+00:00",
+  "is_active": true
 }

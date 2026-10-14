@@ -1,10 +1,10 @@
 {
-  "state": "normal",
-  "title": "",
-  "message": "",
-  "starts_at": null,
-  "ends_at": null,
+  "state": "maintenance",
+  "title": "Update einiger Systeme",
+  "message": "Aufgrund aktueller Sicherheitsupdates kann es zu einer kurzen Nicht-Erreichbarkeit aller Dienste kommen. Ca. 15min",
+  "starts_at": "2026-10-14T22:56:00+02:00",
+  "ends_at": "2026-10-14T23:15:00+02:00",
   "send_notification": false,
-  "updated_at": "2026-09-16T21:26:07.6161455+00:00",
-  "is_active": false
+  "updated_at": "2026-10-14T20:56:33.9984081+00:00",
+  "is_active": true
 }

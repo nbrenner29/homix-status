@@ -1,10 +1,10 @@
 {
-  "state": "maintenance",
-  "title": "Schnelles Jellyfin Update",
-  "message": "Kurze Downtime wegen einem Update",
-  "starts_at": "2026-10-20T19:54:00+02:00",
-  "ends_at": "2026-10-20T20:05:00+02:00",
-  "send_notification": false,
-  "updated_at": "2026-10-20T17:54:57.7733933+00:00",
+  "state": "incident",
+  "title": "Server ausschalten",
+  "message": "Hallo zusammen,\naufgrund von aktuellen Problemen am Server muss ich alle Dienste f\u00FCr heute Nacht bis morgen fr\u00FCh runterfahren.\nSorry und liebe Gr\u00FC\u00DFe \nNiklas",
+  "starts_at": "2026-11-05T23:13:28.3495115+01:00",
+  "ends_at": null,
+  "send_notification": true,
+  "updated_at": "2026-11-05T22:02:21.6957983+00:00",
   "is_active": true
 }

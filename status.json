@@ -1,10 +1,10 @@
 {
-  "state": "incident",
-  "title": "Weitere Server Ausf\u00E4lle",
-  "message": "Aufgrund der aktuellen Fehlersuche sind weitere Serverneustarts n\u00F6tig. Dabei sind die Dienste teilweise vollst\u00E4ndig nicht erreichbar!",
-  "starts_at": "2026-11-06T13:15:09.079679+01:00",
+  "state": "normal",
+  "title": "",
+  "message": "",
+  "starts_at": null,
   "ends_at": null,
   "send_notification": false,
-  "updated_at": "2026-11-06T12:05:38.8863822+00:00",
-  "is_active": true
+  "updated_at": "2026-11-06T19:04:29.1221263+00:00",
+  "is_active": false
 }

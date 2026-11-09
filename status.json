@@ -1,10 +1,10 @@
 {
-  "state": "normal",
-  "title": "",
-  "message": "",
-  "starts_at": null,
-  "ends_at": null,
-  "send_notification": false,
-  "updated_at": "2026-11-06T19:04:29.1221263+00:00",
-  "is_active": false
+  "state": "maintenance",
+  "title": "Serverwartung",
+  "message": "Hallo zusammen,\naufgrund von Umbauarbeiten am Server stehen ALLE Dienste f\u00FCr 20-30min nicht zur Verf\u00FCgung. \nIch versuche den Ausfall so kurz wie m\u00F6glich zu halten.",
+  "starts_at": "2026-11-09T21:50:00+01:00",
+  "ends_at": "2026-11-09T22:30:00+01:00",
+  "send_notification": true,
+  "updated_at": "2026-11-09T20:51:54.6433289+00:00",
+  "is_active": true
 }

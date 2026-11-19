@@ -1,10 +1,10 @@
 {
-  "state": "info",
-  "title": "Aktuelle Sicherheitsl\u00FCcke",
-  "message": "Wegen aktueller Sicherheitsl\u00FCcken mussten wir Bereiche des externen Zugriffs umziehen. Aufgrund dessen kann es aktuell noch zu unvorhergesehenen Problemen bei der Erreichbar kommen. Gebt gerne bei Auff\u00E4lligkeiten bescheid.",
-  "starts_at": "2026-11-18T21:00:32.6298046+01:00",
-  "ends_at": "2026-11-21T21:00:00+01:00",
+  "state": "normal",
+  "title": "",
+  "message": "",
+  "starts_at": null,
+  "ends_at": null,
   "send_notification": false,
-  "updated_at": "2026-11-18T19:50:09.9774164+00:00",
-  "is_active": true
+  "updated_at": "2026-11-19T16:50:30.6481637+00:00",
+  "is_active": false
 }
